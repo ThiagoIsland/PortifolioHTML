@@ -103,7 +103,7 @@ body {
      color: var(--cor-secundaria);
      font-family: var(--font-mont);
   }
-  .apresentacao__links__link:hover{
+  .apresentacao__links__navegacao:hover{
     background-color: #272727;
     color:var(--cor-hover);
   }
@@ -122,6 +122,7 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
+    padding: 1.5%;
 }
 
   .rodape{
