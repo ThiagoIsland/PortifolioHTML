@@ -24,9 +24,11 @@ body {
   
 }
 .cabecalho{
-  padding: 2% 0% 0% 15% ;
-  display: flex;
+  padding: 2% 0% 0% 0% ;
   background-color: var(--cor-primaria);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .cabecalho__menu{
